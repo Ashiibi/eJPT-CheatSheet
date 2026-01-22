@@ -160,8 +160,22 @@ sudo netdicover -i eth0 -r 192.168.3.0/24
 
 #### Nmap scans:
 
-scripts utiles :
-vuln / discovery / http-enum
+catégories scripts NSE :
+auth
+broadcast
+brute
+default
+discovery
+dos
+exploit
+external
+fuzzer
+info
+intrusive
+malware
+safe
+version
+vuln
 
 TARGET SPECIFICATION:
 ```

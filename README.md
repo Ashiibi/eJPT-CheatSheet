@@ -779,7 +779,7 @@ exploit
 #### MYSQL Commands:
 
 ```Shell
-mysql -h <ip-address> -u root
+mysql -h <ip-address> -u root -p
 ```
 
 > This command can be used to connect to `mysql` through a particular user without any specific password: 

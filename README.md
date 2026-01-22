@@ -160,6 +160,9 @@ sudo netdicover -i eth0 -r 192.168.3.0/24
 
 #### Nmap scans:
 
+scripts utiles :
+vuln / discovery / http-enum
+
 TARGET SPECIFICATION:
 ```
   Can pass hostnames, IP addresses, networks, etc.
